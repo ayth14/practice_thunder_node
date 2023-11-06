@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "thunderstore",
+  "version": "1.0",
+  "description": "the practice node js api and app",
+  "main": ".\\index.js",
+  "author": "ayush.prashant@amplework.com",
+  "license": "MIT"
+}
